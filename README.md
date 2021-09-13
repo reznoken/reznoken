@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @reznoken
-- 👀 I’m interested in Valorant
+- 👀 I’m interested in Valorant and Rust
 - 🌱 I’m currently learning School
 - 💞️ I’m looking to collaborate on idk?
